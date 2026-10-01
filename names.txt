@@ -1,3 +1,4 @@
 role,NetID,LastName,FirstName
 boss,lu524,Lu,Yu
 employee,ekraig,Kraig,Emerson
+employee,slee2373,Lee,Suhyeon
